@@ -17,16 +17,22 @@ I'm a professional driven by learning and capable of adapt myself easily to new 
 <a href="https://github.com/bosifullstack/dotfiles">
 <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=dotfiles&theme=gruvbox">
 </a>
+<a href="https://github.com/bosifullstack/Java-Text-Adventure">
 <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=java-text-adventure&theme=gruvbox">
+</a>
 </p>
 
 <p align="center">
+<a href="https://github.com/bosifullstack/ToDo-CLI">
 <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=ToDo-CLI&theme=gruvbox">
+</a>
+<a href="https://github.com/bosifullstack/cotacoes">
 <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=cotacoes&theme=gruvbox">
+</a>
 </p>
 
 ---------------------------------------------------
 
 <p align="center">
-<img align="center" src="./assets/anime.gif">
+<img align="center" src="./assets/pc.gif">
 </p>
