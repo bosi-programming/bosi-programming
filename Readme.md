@@ -24,3 +24,7 @@ I'm a professional driven by learning and capable of adapt myself easily to new 
 <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=ToDo-CLI&theme=gruvbox">
 <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=cotacoes&theme=gruvbox">
 </p>
+
+---------------------------------------------------
+
+![Anime gif](./assets/anime.gif)
