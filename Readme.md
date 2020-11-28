@@ -1,3 +1,5 @@
+![Iroh and tea](./assets/iroh.jpg)
+
 # Me - Felipe Azevedo Bosi
 
 I'm a professional driven by learning and capable of adapt myself easily to new technologies and changes. I'm known for my objectivity, analytical ability, creativity, and aesthetic sense.
