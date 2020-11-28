@@ -12,11 +12,13 @@ I'm a professional driven by learning and capable of adapt myself easily to new 
 ## My main personal repositories:
 
 <p align="center">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=dotfiles&theme=gruvbox">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=java-text-adventure&theme=gruvbox">
+<a href="https://github.com/bosifullstack/dotfiles">
+<img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=dotfiles&theme=gruvbox">
+</a>
+<img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=java-text-adventure&theme=gruvbox">
 </p>
 
 <p align="center">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=ToDo-CLI&theme=gruvbox">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=cotacoes&theme=gruvbox">
+<img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=ToDo-CLI&theme=gruvbox">
+<img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=cotacoes&theme=gruvbox">
 </p>
