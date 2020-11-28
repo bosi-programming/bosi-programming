@@ -28,5 +28,5 @@ I'm a professional driven by learning and capable of adapt myself easily to new 
 ---------------------------------------------------
 
 <p align="center">
-![Anime gif](./assets/anime.gif)
+<img align="center" src="./assets/anime.gif">
 </p>
