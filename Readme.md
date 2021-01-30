@@ -15,7 +15,7 @@ I'm a professional driven by learning and capable of adapt myself easily to new 
 
 <p align="center">
 <a href="https://github.com/bosifullstack/spring-content-manager">
-<img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=spring-content-managers&theme=gruvbox">
+<img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=spring-content-manager&theme=gruvbox">
 </a>
 <a href="https://github.com/bosifullstack/Java-Text-Adventure">
 <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=java-text-adventure&theme=gruvbox">
