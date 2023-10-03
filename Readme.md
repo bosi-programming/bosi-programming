@@ -2,37 +2,6 @@
 
 # Me - Felipe Azevedo Bosi
 
-I'm a professional driven by learning and capable of adapt myself easily to new technologies and changes. I'm known for my objectivity, analytical ability, creativity, and aesthetic sense.
+I'm a dedicated frontend engineer who combines a foundation in architecture and urbanism with a passion for technology. With seven years of experience and a Ph.D. under my belt, I've successfully transitioned from designing structures to crafting digital experiences.
 
-## As a programmer:
-
-<p align="center">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=bosifullstack&count_private=true&theme=gruvbox&show_icons=true">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosifullstack&layout=compact&theme=gruvbox&exclude_repo=texts,study,estudos,vimConfigurations,dotfiles&langs_count=10">
-</p>
-
-## My main personal repositories:
-
-<p align="center">
-<a href="https://github.com/bosifullstack/spring-content-manager">
-<img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=spring-content-manager&theme=gruvbox">
-</a>
-<a href="https://github.com/bosifullstack/Java-Text-Adventure">
-<img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=java-text-adventure&theme=gruvbox">
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/bosifullstack/todo-app-express">
-<img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=todo-app-express&theme=gruvbox">
-</a>
-<a href="https://github.com/bosifullstack/bosifullstack.github.io">
-<img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bosifullstack&repo=bosifullstack.github.io&theme=gruvbox">
-</a>
-</p>
-
----------------------------------------------------
-
-<p align="center">
-<img align="center" src="./assets/pc.gif">
-</p>
+My toolkit encompasses TypeScript, JavaScript, React, Redux, GraphQL, and React-query, enabling me to construct systems that not only epitomize technical robustness but also echo a profound emphasis on user experience. Bridging the chasm between creativity and code, I'm devoted to crafting digital realms that resonate seamlessly with users' needs and aspirations.
