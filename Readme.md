@@ -8,6 +8,6 @@ My toolkit encompasses TypeScript, JavaScript, React, Redux, GraphQL, and React-
 
 # My Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,svelte,vue,wasm,bash,figma,vim)]
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,svelte,vue,wasm,bash,figma,vim)
 
 ![Iroh and tea](./assets/iroh.jpg)
