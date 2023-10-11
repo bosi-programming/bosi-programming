@@ -2,7 +2,7 @@
 
 # About Me | Sobre Mim - Felipe Azevedo Bosi
 
--- 🇺 --
+🇺🇸
 
 With over four years of experience in web development and a Ph.D. in architecture, I am a senior front-end engineer at Luma Health. Luma is an IT health company that automates the patient journey. We serve 50 million patients across more than 650 organizations, including Banner Health, Cook County Health, and Montefiore Health System.
 
@@ -10,7 +10,7 @@ Today, I'm focused on creating frontend experiences and APIs for AI-enhanced sol
 
 I am passionate about technology and design. Likewise, I like to share my knowledge and insights here, on my GitHub page, and on my blog. I'm always eager to learn new skills and explore new challenges in the web development field.
 
--- 🇧 --
+🇧🇷
 
 Com mais de quatro anos de experiência em desenvolvimento web e um PhD em arquitetura, sou um desenvolvedor frontend sênior na Luma Health. Luma é uma empresa de TI focada na área da saúde que automatiza a jornada do paciente. Servimos a mais de 50 milhões de pacientes em mais de 650 organizações, incluindo gigantes como Banner Health, Cook County Health e Montefiore Health System.
 
