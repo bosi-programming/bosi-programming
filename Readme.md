@@ -1,4 +1,4 @@
-![Status](./profile-3d-contrib/profile-gitblock.svg)
+[![Career trail](https://github-timeline.frangolab.com/embed/bosi-programming/trilha.svg?paleta=ambar&lang=en)](https://github-timeline.frangolab.com/u/bosi-programming?lang=en)
 
 # About Me | Sobre Mim - Felipe Azevedo Bosi
 
