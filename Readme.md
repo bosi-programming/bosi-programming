@@ -42,6 +42,6 @@ Contato: contato@felipebosi.com
 
 # My Skills | Minhas Habilidades
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,astro,react,svelte,nestjs,node,wasm,bash,figma,vim&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,astro,react,svelte,nestjs,nodejs,rust,wasm,bash,figma,neovim&theme=dark)
 
 ![Iroh and tea](./assets/iroh.jpg)
